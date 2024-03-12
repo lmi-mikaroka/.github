@@ -1,12 +1,3 @@
-## LMI MIKAROKA 👋
+## LMI MIKAROKA 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Le Laboratoire Mixte International MIKAROKA a pour ambition de mettre en place une plate-forme d’observations fonctionnelle et pérenne de la biodiversité marine côtière et de ses usages à Madagascar, et une plate-forme de formation qui accompagnera les partenaires dans le renforcement de leurs capacités de recherche et de formation. La plate-forme d’observations s’organisera en six composantes thématiques, plus une composante transversale dédiée à la bancarisation et la sécurisation des données
